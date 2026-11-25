@@ -1,0 +1,15 @@
+# Folder percobaan tidak terpakai
+Leo2/
+
+# File mentah Photoshop berukuran besar
+*.psb
+*.psd
+Logo/Mentah/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File sistem
+.DS_Store
+Thumbs.db

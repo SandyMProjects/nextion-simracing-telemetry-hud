@@ -1,0 +1,4 @@
+pyserial
+pyautogui
+pycaw
+comtypes
