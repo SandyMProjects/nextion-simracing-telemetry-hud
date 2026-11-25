@@ -8,7 +8,7 @@ Antarmuka layar sentuh **Nextion HMI** kustom yang menggabungkan **Dashboard Tel
 
 | Halaman Utama (Launcher) | Dashboard Telemetri F1 | Kontrol Audio Discord |
 | :---: | :---: | :---: |
-| ![Halaman Utama](Halaman_Utama.png) | ![Dashboard F1](F1%20Template%20Base.png) | ![Halaman Discord](Discord%20Page.png) |
+| ![Halaman Utama](Halaman_Utama3.png) | ![Dashboard F1](F1%20Template%20ON.png) | ![Halaman Discord](Discord%20Page.png) |
 
 ---
 
